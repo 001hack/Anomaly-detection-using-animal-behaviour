@@ -89,7 +89,7 @@ streamlit run DASH.py
 ### 4 Open in Browser
 
 ```
-http://localhost:8501 (The link will get after running the final command this is an just demo )
+http://localhost:8501 ( This is just for demonstartion not an actual one , the actual link will be gain after running the above command)
 ```
 
 ---
